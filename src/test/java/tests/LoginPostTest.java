@@ -7,8 +7,8 @@ import org.testng.annotations.Test;
 import pages.HomePage;
 
 public class LoginPostTest extends BaseTest {
-    private static final String USERNAME = "akshaysayakki@yahoo.in";
-    private static final String PASSWORD = "bpwL8Xps@";
+    private static final String USERNAME = "xxx@gmail.in";
+    private static final String PASSWORD = "xxxxxxxx";
     private static final String STATUS = "Hello World";
 
     @Test()
