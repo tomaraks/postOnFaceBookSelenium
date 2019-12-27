@@ -1,7 +1,6 @@
 package base;
 
 import com.google.common.io.Files;
-import org.json.simple.JSONObject;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.chrome.ChromeDriver;
